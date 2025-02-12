@@ -1,0 +1,9 @@
+101,Java,300.00
+102,Python,200.00
+103,AWS,350.00
+104,Angular,250.00
+
+spring.datasource.url=jdbc:mysql://localhost:3306/sbms14
+spring.datasource.username=root
+spring.datasource.password=Vijay@![1314
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
